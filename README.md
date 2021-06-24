@@ -1,8 +1,12 @@
-*CRUD-CLICK-PYTHON
-Un pequeño CRUD hecho con Python y el framewor CLICK para la creacion de interfaces de linea de comandos (CLI)
+# CRUD-CLICK-PYTHON
+Un pequeño CRUD hecho con Python y el Framework CLICK para la creacion de interfaces de linea de comandos (CLI)
 
-**Instalación
+## Instalación
+```
 pip install .
+```
 
-**Uso
+## Uso
+```
 bv --help
+```
